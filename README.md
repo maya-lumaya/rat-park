@@ -1,6 +1,6 @@
 # Rat Park
 
-An early, static website concept for a tattoo artist. The page uses the artist's supplied artwork and is designed for GitHub Pages. Open `index.html` directly or run `python3 -m http.server` to preview locally.
+An early, static website concept for a Berlin tattoo artist. The page uses the artist's supplied artwork and is ready for Netlify. Open `index.html` directly or run `python3 -m http.server` to preview locally. Netlify can import this GitHub repository with no build command; `netlify.toml` publishes the repository root.
 
 ## Before using it as a booking site
 
